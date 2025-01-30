@@ -7,6 +7,3 @@ import { Component } from '@angular/core';
 export class AppComponent {
   value = 'World';
 }
-export class AppComponent {
-  value = 'World';
-}
